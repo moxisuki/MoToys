@@ -1,0 +1,35 @@
+{
+    "terminal": "wt",
+    "shell": "pwsh",
+    "keep_open": true,
+    "directory": "explorer",
+    "fallback_directory": "",
+    "editor": "notepad",
+    "score": 100000,
+    "programs": [
+        {
+            "name": "Kimi Code",
+            "command": "kimi"
+        },
+        {
+            "name": "DSH Agent",
+            "command": "dsh"
+        },
+        {
+            "name": "Node.js REPL",
+            "command": "node"
+        }
+    ],
+    "kimi": {
+        "sessions_dir": "",
+        "limit": 12,
+        "include_archived": false,
+        "new_command": "kimi",
+        "continue_command": "kimi -c",
+        "resume_command": "kimi -S {id}",
+        "deep_search": true,
+        "deep_files": 10,
+        "deep_bytes": 262144,
+        "deep_min_query": 2
+    }
+}

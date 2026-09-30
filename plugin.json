@@ -1,0 +1,15 @@
+{
+    "ID": "e080485c-2d15-410a-bafc-dfa49740f4f4",
+    "ActionKeywords": [
+        "*"
+    ],
+    "Name": "MoToys",
+    "Description": "重启资源管理器 · 当前目录开终端 · Kimi 会话",
+    "Author": "WREN",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/moxisuki/MoToys",
+    "IcoPath": "images/icon.png",
+    "ExecuteFileName": "main.py",
+    "SearchDelayTime": 100
+}
