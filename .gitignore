@@ -1,5 +1,6 @@
 # 运行时生成的文件
 motoys.log
 sessions_cache.json
+icon_cache/
 __pycache__/
 *.pyc
